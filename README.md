@@ -1,2 +1,2 @@
-# Simple_Linear_Regression_Model
-This Linear Regression Model is build up to predict the Salary on the basis of Years of Experience.
+# Simple_Linear_Regression_Model and Polynomial_Regression_Model
+This Regression Models are build up to predict the Salary on the basis of Years of Experience.
